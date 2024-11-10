@@ -6,4 +6,7 @@ As per the name you must get an idea what we are dealing with, Employee's payrol
 . MYSQL
 # SETUP
  1. Clone the Repository:
- 2.       git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
+        git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
+ 2. Configure the database:
+         Create a MySQL database and update the database connection details in the
+           JdbcUserDao.java    
