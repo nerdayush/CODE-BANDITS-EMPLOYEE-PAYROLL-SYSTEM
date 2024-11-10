@@ -6,4 +6,4 @@ As per the name you must get an idea what we are dealing with, Employee's payrol
 . MYSQL
 # SETUP
  1. Clone the Repository:
-    git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
+ 2.       git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
