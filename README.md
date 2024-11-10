@@ -4,3 +4,7 @@ As per the name you must get an idea what we are dealing with, Employee's payrol
 . JAVA
 . ECLIPSE IDE FOR MAVEN
 . MYSQL
+# SETUP
+	1. Clone the Repository:
+ 		git clone https://github.com/yourusername/employeepayrollsystem.git
+cd employeepayrollsystem
