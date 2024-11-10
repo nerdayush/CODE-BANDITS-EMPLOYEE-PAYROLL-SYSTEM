@@ -1,12 +1,12 @@
 # EMPLOYEE PAYROLL SYSTEM
 As per the name you must get an idea what we are dealing with, Employee's payroll which is an important thing in corporate sector. Here, comes our system which helps you to track each and every details of your employees payrolls and as an employee you can track your checks and salary slips. 
 # PREQUISITES
-. JAVA
-. ECLIPSE IDE FOR MAVEN
-. MYSQL
+    . JAVA
+    . ECLIPSE IDE FOR MAVEN
+    . MYSQL
 # SETUP
- 1. Clone the Repository:
+  #1. Clone the Repository:
         git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
- 2. Configure the database:
+  #2. Configure the database:
          Create a MySQL database and update the database connection details in the
            JdbcUserDao.java    
