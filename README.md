@@ -5,8 +5,8 @@ As per the name you must get an idea what we are dealing with, Employee's payrol
     . ECLIPSE IDE FOR MAVEN
     . MYSQL
 # SETUP
-  #1. Clone the Repository:
+  # 1. Clone the Repository:
         git clone https://github.com/yourusername/employeepayrollsystem.git cd employeepayrollsystem
-  #2. Configure the database:
+  # 2. Configure the database:
          Create a MySQL database and update the database connection details in the
            JdbcUserDao.java    
