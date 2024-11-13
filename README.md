@@ -1,12 +1,49 @@
-# EMPLOYEE PAYROLL SYSTEM
-As per the name you must get an idea what we are dealing with, Employee's payroll which is an important thing in corporate sector. Here, comes our system which helps you to track each and every details of your employees payrolls and as an employee you can track your checks and salary slips. 
-# PREQUISITES
-    . JAVA
-    . ECLIPSE IDE FOR MAVEN
-    . MYSQL
-# SETUP
-  # 1. Clone the Repository:
-        git clone https://github.com/yourusername/CODE-BANDITS-EMPLOYEE-PAYROLL-SYSTEM.git cd employeepayroll system
-  # 2. Configure the database:
-         Create a MySQL database and update the database connection details in the
-           JdbcUserDao.java    
+# Employee Payroll System
+
+A simple Employee Payroll System built using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. This application allows you to manage employee records, including adding, updating, and deleting employee information.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Add new employees with name, position, and salary.
+- View a list of all employees.
+- Update employee details.
+- Delete employee records.
+- Simple and user-friendly interface.
+
+## Technologies Used
+
+- **Java**: Programming language for the backend.
+- **Spring Boot**: Framework for building the backend REST API.
+- **MySQL**: Database for storing employee records.
+- **HTML/CSS**: For the frontend user interface.
+- **JavaScript**: For client-side scripting and API interaction.
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+### Prerequisites
+
+- Java Development Kit (JDK) 11 or later
+- Apache Maven
+- MySQL Server
+- An IDE (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code)
+- (Optional) Postman for testing API endpoints
+
+### Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/employee-payroll-system.git
+   cd employee-payroll-system
