@@ -1,0 +1,23 @@
+employee-payroll-system/
+│
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── payroll/
+│   │   │   │           ├── controller/
+│   │   │   │           ├── model/
+│   │   │   │           ├── repository/
+│   │   │   │           └── service/
+│   │   │   └── resources/
+│   │   │       └── application.properties
+│   ├── pom.xml
+│   └── ...
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
